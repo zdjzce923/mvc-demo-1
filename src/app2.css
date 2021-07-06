@@ -1,0 +1,19 @@
+#app2 {
+  border: 1px solid rgb(68, 151, 177);
+}
+.tab-bar {
+  display: flex;
+}
+.tab-bar li {
+  width: 50%;
+  border: 1px solid #132541;
+}
+.liactive {
+  background: #6aa14e;
+}
+.content-active {
+  display: block;
+}
+.content-none {
+  display: none;
+}

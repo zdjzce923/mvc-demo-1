@@ -1,0 +1,16 @@
+@import './reset.css';
+@import './app1.css';
+@import './app2.css';
+@import './app3.css';
+@import './app4.css';
+body {
+  overflow: hidden;
+}
+section {
+  width: 50vw;
+  height: 50vh;
+}
+.page {
+  display: flex;
+  flex-wrap: wrap;
+}
